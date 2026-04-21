@@ -11,6 +11,17 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
+DOMAIN-SUFFIX,kkp.zhezhi.art
+DOMAIN-SUFFIX,emby.sadchicktv.com
+DOMAIN-SUFFIX,emby.nas.edu.kg
+DOMAIN-SUFFIX,emos.best
+DOMAIN-SUFFIX,m.mobaiemby.site
+DOMAIN-SUFFIX,emby.younoyes.com
+DOMAIN-SUFFIX,yp.lyezi.cc
+DOMAIN-SUFFIX,emby.heisi.org
+DOMAIN-SUFFIX,lite.cn2gias.uk
+DOMAIN-SUFFIX,embymv.link
+DOMAIN-SUFFIX,link00.okemby.org
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
