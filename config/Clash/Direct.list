@@ -329,6 +329,16 @@ DOMAIN-SUFFIX,sandai.net
 DOMAIN-SUFFIX,thundercdn.com
 DOMAIN-SUFFIX,xunlei.com
 
+# emby 国内直连
+DOMAIN-SUFFIX,emby189.entertang.work
+DOMAIN-SUFFIX,goemby.entertang.work
+DOMAIN-SUFFIX,gy.emby.yun
+DOMAIN-SUFFIX,cdn.zhezhi.art
+DOMAIN-SUFFIX,emby2.sadchicktv.com
+DOMAIN-SUFFIX,emby.taotu.ink
+DOMAIN-SUFFIX,www.yuntv.de
+DOMAIN-SUFFIX,cdn.8211992.xyz
+DOMAIN-SUFFIX,emby.taotu.ink
 
 # Public Direct CDN 公共直连
 #DOMAIN-SUFFIX,ajax.aspnetcdn.com
