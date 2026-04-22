@@ -40,3 +40,10 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
+# 机场
+DOMAIN-SUFFIX,xueshan.shop
+DOMAIN-SUFFIX,xueshan.us
+DOMAIN-SUFFIX,良心云.com
+DOMAIN-SUFFIX,三毛机场.com
+DOMAIN-SUFFIX,sntp.uk
